@@ -16,6 +16,8 @@ build/
 .env.test.local
 .env.production.local
 
+!.env.example
+
 # IDE and editor files
 .vscode/
 .idea/
